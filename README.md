@@ -1,5 +1,5 @@
 # 💫 About Me:
-**Data Scientist | Machine Learning Enthusiast**<br><br>- 🧠 Experienced in developing and implementing machine learning models, data preprocessing, and advanced data analysis.<br>- 🐍 Proficient in Python programming; skilled in predictive modeling, classification systems, and segmentation frameworks.<br>- 📡 Hands-on experience in building and deploying machine learning models.<br>- 🎓 Academic background in Environmental Sciences (Chemistry and Geography) from **North West University**.<br>- 🎯 Specialized Data Science training from **Explore AI Academy**.<br>- 🛠️ Strong analytical mindset and technical expertise to solve complex real-world problems.<br>
+**Data Scientist | Machine Learning and AI Enthusiast**<br><br>- 🧠 Experienced in developing and implementing machine learning models, data preprocessing, and advanced data analysis.<br>- 🐍 Proficient in Python programming; skilled in predictive modeling, classification systems, and segmentation frameworks.<br>- 📡 Hands-on experience in building and deploying machine learning models.<br>- 🎓 Academic background in Environmental Sciences (Chemistry and Geography) from **North West University**.<br>- 🎯 Specialized Data Science training from **Explore AI Academy**.<br>- 🛠️ Strong analytical mindset and technical expertise to solve complex real-world problems.<br>
 
 
 ## 🌐 Socials:
