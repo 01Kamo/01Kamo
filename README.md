@@ -1,5 +1,15 @@
 # 💫 About Me:
-**Data Scientist | Machine Learning and AI Enthusiast**<br><br>- 🧠 Experienced in developing and implementing machine learning models, data preprocessing, and advanced data analysis.<br>- 🐍 Proficient in Python programming; skilled in predictive modeling, classification systems, and segmentation frameworks.<br>- 📡 Hands-on experience in building and deploying machine learning models.<br>- 🎓 Academic background in Environmental Sciences (Chemistry and Geography) from **North West University**.<br>- 🎯 Specialized Data Science training from **Explore AI Academy**.<br>- 🛠️ Strong analytical mindset and technical expertise to solve complex real-world problems.<br>
+
+**Data Scientist | Machine Learning & AI**<br><br>
+
+- 🧠 Data Scientist with hands-on experience building machine learning solutions, data workflows, and AI applications.
+- 🐍 Experienced in **Python and SQL**, with a focus on data preprocessing, feature engineering, predictive modelling, and model evaluation.
+- 🤖 Practical experience with **Scikit-learn, PyTorch, TensorFlow, XGBoost, CNNs, ResNet, NLP, and computer vision**.
+- ☁️ Hands-on experience with **AWS**, including S3, Lambda, EventBridge, and cloud-based data workflows.
+- ⚙️ Experience building **ETL pipelines, data processing workflows, Streamlit applications, and AI-assisted solutions**.
+- 📊 Interested in building machine learning solutions that move from experimentation into practical, production-focused applications.
+- 🚀 Currently deepening my skills in **MLOps, ML deployment, cloud ML, software engineering, and production AI systems**.
+- 🎓 BSc Environmental Sciences (Chemistry & Geography) from **North-West University** | Data Science training from **Explore AI Academy**.
 
 
 ## 🌐 Socials:
