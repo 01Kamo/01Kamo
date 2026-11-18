@@ -21,7 +21,7 @@ I'm particularly interested in the intersection of data engineering, machine lea
 ## Professional Background
 
 ### Data Scientist | SanlamConnect – Succession Financial Planning
-*Financial Services | September 2026 – Present*
+*Financial Services | September 2025 – Present*
 
 Working across data science, data engineering and analytics, contributing to data solutions that support business operations, improve data processes and enable informed decision-making.
 
