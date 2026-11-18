@@ -1,6 +1,5 @@
 
-# Kamogelo Nkwana
-### Data Scientist | Data Engineering | Machine Learning & AI
+## Data Scientist | Data Engineering | Machine Learning & AI
 
 I am a Data Scientist with experience working across data science, data engineering and software-driven data solutions. My work involves building data workflows, automating processes, working with databases, improving data quality and developing analytical solutions to address business needs.
 
